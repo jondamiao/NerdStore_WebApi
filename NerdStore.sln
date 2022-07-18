@@ -25,7 +25,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{084EDD2B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Catalogo.Domain.Tests", "tests\NerdStore.Catalogo.Domain.Tests\NerdStore.Catalogo.Domain.Tests.csproj", "{C22AFE31-A0D5-451C-A771-EED5A747C1EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Catalogo.Data", "src\NerdStore.Catalogo.Data\NerdStore.Catalogo.Data.csproj", "{9758EC2C-C742-426D-9665-06AB6ED18B8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Catalogo.Data", "src\NerdStore.Catalogo.Data\NerdStore.Catalogo.Data.csproj", "{9758EC2C-C742-426D-9665-06AB6ED18B8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vendas", "Vendas", "{B787672D-E4A6-41D0-97FF-F1856702C7A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -64,6 +66,7 @@ Global
 		{084EDD2B-EB2F-41D7-9398-A08F98EB1429} = {81559DA1-5C4F-421E-9190-3A819000FE96}
 		{C22AFE31-A0D5-451C-A771-EED5A747C1EA} = {084EDD2B-EB2F-41D7-9398-A08F98EB1429}
 		{9758EC2C-C742-426D-9665-06AB6ED18B8F} = {81559DA1-5C4F-421E-9190-3A819000FE96}
+		{B787672D-E4A6-41D0-97FF-F1856702C7A6} = {191B17F4-09C7-4276-9029-6A65C0C144F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91A792B1-5248-470B-9B73-BE3025DFBCD2}
