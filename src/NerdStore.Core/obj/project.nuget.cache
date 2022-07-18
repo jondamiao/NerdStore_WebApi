@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0HLfZEsEfCZ0EFoHYyrrHHontGVPLuwG8GqR/2x8SrwxZmAyADPRjPNRXelAye69jL+AnEpvbpkSej/4sf4yQg==",
+  "dgSpecHash": "kzmeawJHxZHHPxC4d1JG1gSsa2Ik69EebUpamU/dqsYYat9T1QmbTw6jxfpp780GD+Pzd40vKp/CP+AtNzkvrw==",
   "success": true,
   "projectFilePath": "F:\\Source\\GitHub\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
